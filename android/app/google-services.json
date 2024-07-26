@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:619425849052:android:94ad4c3ffde50f57d6de19",
+        "mobilesdk_app_id": "1:619425849052:android:07c421ed0adbcd2ed6de19",
         "android_client_info": {
           "package_name": "com.example.firebase_cicd"
         }
