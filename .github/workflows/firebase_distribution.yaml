@@ -28,7 +28,7 @@ jobs:
       - run: flutter pub get
       - run: flutter build apk
       - name: Upload artifact to Firebase App Distribution
-        uses: wzieba/Firebase-Distribution-Github-Action@v1.3.3
+        uses: wzieba/Firebase-Distribution-Github-Action@v1.7.0
         with:
 #          appId firebase
           appId: ${{secrets.FIREBASE_APPID_V1}}
